@@ -2,9 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
-
-First run 
+## Run the bellow commands
 
 ### `npm install`
 This installs all the required node_modules
