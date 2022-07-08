@@ -1,0 +1,73 @@
+.hero-image {
+  background-image: url("https://www.bhg.com.au/media/17305/100418-carpark.jpg");
+  height: 520px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  position: relative;
+}
+
+.size {
+  margin: auto;
+  height: 250px;
+  width: 250px;
+}
+
+.hero-image-booked {
+  background-image: url("https://www.clublexus.com/forums/attachments/is-2nd-gen-2006-2013/232185d1325568993-pictures-of-you-car-in-the-parking-lot-is350.jpg");
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  height: 230px;
+  width: 500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.hero-image-empty {
+  background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fc2.staticflickr.com%2F4%2F3155%2F2323084139_82e1e8a66e_b.jpg&f=1&nofb=1");
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  height: 230px;
+  width: 500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+#space {
+  margin-top: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+#navbar {
+  padding-left: 80px;
+  font-weight: 700;
+}
+
+#book-item{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  max-width: 300px;
+  min-height: 300px;
+  margin-bottom: 30px;
+  border-radius: 20px;
+  color: white;
+}
+
+#park-cont{
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-around;
+}
