@@ -12,3 +12,6 @@ This installs all the required node_modules
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
+Live site at
+[https://debraj-kundu-chutney-assignment.netlify.app/](https://debraj-kundu-chutney-assignment.netlify.app/)
+
